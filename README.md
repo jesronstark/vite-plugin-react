@@ -13,6 +13,7 @@
 
 
 
+
 # @vitejs/plugin-react-swc [![npm](https://img.shields.io/npm/v/@vitejs/plugin-react-swc)](https://www.npmjs.com/package/@vitejs/plugin-react-swc)
 
 Speed up your Vite dev server with [SWC](https://swc.rs/)
